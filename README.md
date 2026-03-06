@@ -173,7 +173,7 @@ This project demonstrates:
 
 # 👨‍💻 Author
 
-**Ashish Mishra **
+**Ashish Mishra**
 
 Aspiring **Data Analyst**
 Skilled in **Excel, SQL, Power BI, Python**

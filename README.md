@@ -1,7 +1,6 @@
 # Coffee-Sales-Analysis
-Coffee-Sales-Dashboard-Analysis
-☕ Coffee Sales Dashboard Analysis
-📊 Project Overview
+#☕ Coffee Sales Dashboard Analysis
+#📊 Project Overview
 This project presents an interactive Coffee Sales Dashboard created using Microsoft Excel. The dashboard helps analyze coffee shop sales performance using different filters such as Month Name and Day Name.
 
 It provides insights into:

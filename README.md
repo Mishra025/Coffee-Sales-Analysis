@@ -22,7 +22,7 @@ The dashboard is **interactive**, meaning users can click on **months or days** 
 
 # 📸 Dashboard Preview
 
-<img width="911" height="469" alt="Coffe Dasboard" src="https://github.com/user-attachments/assets/3799d066-4096-40e2-bf67-73a5250e6f51" />
+<img width="911" height="469" alt="Coffe Dasboard" src="https://github.com/Mishra025/Coffee-Sales-Analysis/blob/ffbff55edd2a65fab47df7a98c12ccfe4995576a/Screenshot%202026-03-06%20231841.png" />
 
 
 ---
